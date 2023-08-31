@@ -8,11 +8,15 @@ K-means is an unsupervised machine learning algorithm used for partitioning data
 In the context of image clustering, K-means groups pixels based on color similarity.
 It iteratively refines cluster assignments and centroids to minimize the sum of squared distances.
 
+![K-means]("k-means.jpeg")
+
 # **Hierarchical Agglomerative Clustering (HAC):**
 
 HAC builds a hierarchy of clusters in the form of a dendrogram.
 It starts with individual data points as clusters and merges them based on similarity.
 Clusters are formed in a hierarchical structure that can be cut at different levels to obtain desired clusters.
+
+![HAC]("CHA.png")
 
 # **Repository Contents**
 
