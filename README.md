@@ -1,7 +1,7 @@
-### Image Clustering
+### **Image Clustering**
 This repository demonstrates image clustering using the K-means and Hierarchical Agglomerative Clustering (HAC) algorithms. The goal is to segment images into distinct regions based on similarity in color or other relevant features.
 
-### Algorithms Used
+### **Algorithms Used**
 # **K-means Clustering:**
 
 K-means is an unsupervised machine learning algorithm used for partitioning data into clusters.
